@@ -1,10 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Tinygram
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with GoogleCloud
-- 💬 Ask me about iOS
-- 📫 How to reach me: GitHub
-- 😄 Pronouns: ohtwo
-- ⚡ Fun fact: ...
+![tinygram_banner](https://user-images.githubusercontent.com/888140/88512764-0768de00-d022-11ea-82db-72689902024f.png)
